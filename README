@@ -1,0 +1,13 @@
+A stand-alone python script for running ArcGIS's Trace Geometric Network tool to find the closest gage station found in downstreams from each dams.
+
+Included are:
+
+- traceGeometric.py
+
+- test.gdb.zip : zipped geodatabase for testing
+
+- pythonWorkedScreenshot.png : how the running process and result would look (but the python tool itself runs OUTSIDE ArcGIS. I.e. run it without opening ArcGIS - just run from Python Shell..)
+
+Special thanks to BILL! Maggie found a kind person who willingly suggest and sent his script. Bill, you are a saint!
+https://geonet.esri.com/message/617271?et=watches.email.thread#comment-617271
+
